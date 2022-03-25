@@ -26,4 +26,5 @@ def isPalindrome(string):
             return False
         leftP += 1
         rightP -= 1
+
     return True

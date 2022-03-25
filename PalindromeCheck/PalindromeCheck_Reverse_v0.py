@@ -5,4 +5,4 @@
 
 
 def isPalindrome(s):
-	return s == s[::-1]
+    return s == s[::-1]

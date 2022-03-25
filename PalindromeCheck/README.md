@@ -1,9 +1,9 @@
 # AlgoExpert: Palindrome Check
 
-Website: AlgoExpert: Coding Interview Questions
-Problem: Palindrome Check
-Difficulty: Easy
-https://www.algoexpert.io/questions/Palindrome%20Check
+- Website: AlgoExpert: Coding Interview Questions
+- Problem: Palindrome Check
+- Difficulty: Easy
+- https://www.algoexpert.io/questions/Palindrome%20Check
 
 - Can be solved using following approaches:
 	- [X] Recursive
